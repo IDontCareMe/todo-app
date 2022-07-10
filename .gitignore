@@ -7,3 +7,7 @@
 # executable
 *.exe
 *.exe~
+
+# batch and shall
+.bat
+.sh
