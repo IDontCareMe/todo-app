@@ -9,7 +9,7 @@
 *.exe~
 
 # batch and shall
-.bat
-.sh
+*.bat
+*.sh
 
 # 
