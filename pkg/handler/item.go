@@ -19,3 +19,7 @@ func (h *Handler) getItemById(c *gin.Context) {
 func (h *Handler) updateItem(c *gin.Context) {
 
 }
+
+func (h *Handler) deleteItem(c *gin.Context) {
+
+}
