@@ -1,1 +1,9 @@
+# IDE's files
 .idea
+
+# temporary files
+*~
+
+# executable
+*.exe
+*.exe~
