@@ -1,10 +1,12 @@
 package repository
 
 import (
+	"github.com/IDontCareMe/todo-app"
 	"github.com/jmoiron/sqlx"
 )
 
 type Authorization interface {
+	CreateUser(user todo.User)
 }
 
 type TodoList interface {
